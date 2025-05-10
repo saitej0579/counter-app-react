@@ -1,0 +1,8 @@
+#reset{
+    background-color: rgb(72, 135, 252);
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    color: white;
+    font-size: small;
+}
